@@ -1,0 +1,25 @@
+미디어·출처·권리 메모
+
+1) 영상
+- media/flight914-explainer.ko.mp4: 18초, 무음, 24fps의 독립 모션 그래픽입니다.
+- scripts/build_explainer.py가 이 사이트의 생성형 콘셉트 이미지 3장에 느린 확대·한국어 자막을 적용해 만들었습니다.
+- 실제 영화 프레임, 영화 대사, 원본 음원, 배우의 초상, 공식 포스터 또는 영화 로고를 넣지 않았습니다.
+- 함께 제공되는 flight914-explainer.ko.vtt는 영상의 한국어 자막입니다.
+
+2) 이미지
+- assets/images/hero-storm-flight.jpg: 로고 없는 여객기와 폭풍을 그린 독립 콘셉트 이미지.
+- assets/images/two-eras-sky.jpg: 현대 여객기와 1940년대 항공기 실루엣을 소재로 한 독립 콘셉트 이미지.
+- assets/images/cockpit-at-dusk.jpg: 익명의 조종사와 조종석을 묘사한 독립 콘셉트 이미지.
+- 위 이미지들은 생성형 이미지 도구로 새로 제작했으며 영화의 실제 장면이나 공식 홍보물로 제시하지 않습니다. 이미지 자체에 영화 로고나 배우 likeness를 넣지 않았습니다.
+
+3) 영화 정보 출처
+- Apple TV, Flight World War II: https://tv.apple.com/us/movie/flight-world-war-ii/umc.cmc.a6217mxqlzthe46mlsdz6wms
+- Rotten Tomatoes, Flight World War II: https://www.rottentomatoes.com/m/flight_world_war_ii
+- Apple TV, Flight 1942: https://tv.apple.com/ie/movie/flight-1942/umc.cmc.a6217mxqlzthe46mlsdz6wms
+- AFP Fact Check, Pan Am Flight 914 story: https://factcheck.afp.com/doc.afp.com.364B3LA
+- 카탈로그 정보는 지역과 판본에 따라 달라질 수 있으므로 업데이트 시 출처를 다시 확인하세요.
+
+4) 중요한 경계
+- 사용자가 준 긴 온라인 영상은 사이트 자산으로 복사하거나 호스팅하지 않았습니다.
+- Flight 914라는 온라인 표기와 카탈로그상 Flight World War II / Flight 1942를 구분합니다. 사이트는 영화의 공식 홈페이지가 아니며, 영화가 실화라고 주장하지 않습니다.
+- 이미지, 텍스트 또는 영상에 제3자 자산을 추가할 경우 해당 자산별 라이선스·허가·출처를 기록하고 정책 페이지를 갱신하세요.
